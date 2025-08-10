@@ -12,7 +12,15 @@ A lightweight **C++ command-line tool** that allows you to encrypt and decrypt f
 - User-friendly console interface
 - Error handling for invalid file paths
 
-## 🛠 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/FileEncryptor.git
+
+## Details
+Name: File Encryption & Decryption Tool
+Author: Syed Mujtaba Zaidi
+Description: A lightweight C++ tool to encrypt and decrypt files with a fake progress bar animation.
+Language: C++
+Version: 1.0.0
+Features:
+  - Simple encryption & decryption
+  - Easy-to-use CLI
+Dependencies:
+  - None (pure C++)
