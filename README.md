@@ -19,7 +19,7 @@ Name: File Encryption & Decryption Tool
 
 Author: Syed Mujtaba Zaidi
 
-Description: A lightweight C++ tool to encrypt and decrypt files with a fake progress bar animation.
+Description: A lightweight C++ tool to encrypt and decrypt files with a  progress bar animation.
 
 Language: C++
 
