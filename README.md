@@ -4,7 +4,7 @@
 
 # 🔐 File Encryption & Decryption Tool
 
-A lightweight **C++ command-line tool** that allows you to encrypt and decrypt files with a professional-looking fake progress animation for better user experience.
+A lightweight **C++ command-line tool** that allows you to encrypt and decrypt files with a professional-looking and  animation for better user experience.
 
 ## 📜 Features
 - AES-like simple XOR-based encryption
